@@ -1,5 +1,7 @@
 # delete-vpc-script
 
+example: `delete-vpc.sh us-east-1 vpc-024e6f7fa55e4bfa8`
+
 ```
 #!/bin/bash
 #description : Delete a specific AWS VPC
